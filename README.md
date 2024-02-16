@@ -9,7 +9,7 @@
 ## README
 
 ### Description
-The **Web Shell** project is a web application that provides an interactive shell-like environment to execute commands on the server. The application includes a simple authentication system and the ability to change the default password.
+The **Arko-WebShell** project is a web application that provides an interactive shell-like environment to execute commands on the server. The application includes a simple authentication system and the ability to change the default password.
 
 ### Key Features
 
