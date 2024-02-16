@@ -18,7 +18,6 @@ The **Web Shell** project is a web application that provides an interactive shel
 // Define the expected password
 $expectedPassword = 'Arquero99.+';
 ```
-   - After successful authentication, the option to change the default password is provided.
    - The user can enter a new password that will replace the default password for future sessions.
 
 ### Usage Instructions
