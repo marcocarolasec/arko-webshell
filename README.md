@@ -4,12 +4,20 @@
 The **Web Shell** project is a web application that provides an interactive shell-like environment to execute commands on the server. The application includes a simple authentication system and the ability to change the default password.
 
 ### Key Features
+
 1. **User Authentication:**
    - Authentication is performed using a predefined password.
    - After 5 failed attempts, the system locks access for 30 seconds.
    - Once authenticated, the user can access the web shell to execute commands.
 
+
+
+
 2. **Change Default Password:**
+```
+// Define the expected password
+$expectedPassword = 'Arquero99.+';
+```
    - After successful authentication, the option to change the default password is provided.
    - The user can enter a new password that will replace the default password for future sessions.
 
