@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-<img width="219" alt="Figure-1-Simple-PHP-Web-shell-example-V2" src="https://github.com/marcocarolasec/arko-webshell/assets/58811847/f9a22a36-75a1-43b0-aca1-4a28e4417dd2">  </a>
+<img width="400" alt="Figure-1-Simple-PHP-Web-shell-example-V2" src="https://github.com/marcocarolasec/arko-webshell/assets/58811847/86241247-c254-46f4-b684-6cd4295400dc">  </a>
 
 </div>
 
