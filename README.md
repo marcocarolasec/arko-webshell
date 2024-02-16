@@ -9,7 +9,7 @@
 ## README
 
 ### Description
-The **Arko-WebShell** project is a web application that provides an interactive shell-like environment to execute commands on the server. The application includes a simple authentication system and the ability to change the default password.
+The **Arko-WebShell** is a project which seeks to protect a php backdoor through secure authentication. Every 5 failed attempts, it will block the ability to continue entering passwords for 30 seconds, preventing brute force attacks. The webshell has a graphical and interactive shell and has file upload functionality, which facilitates post-exploitation.
 
 ### Key Features
 
